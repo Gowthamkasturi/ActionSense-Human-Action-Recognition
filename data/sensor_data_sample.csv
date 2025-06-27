@@ -1,0 +1,4 @@
+timestamp,acc_x,acc_y,acc_z,gyro_x,gyro_y,gyro_z,label
+0,0.1,0.2,0.3,0.01,0.02,0.03,walking
+1,0.2,0.1,0.4,0.02,0.01,0.03,sitting
+2,0.3,0.3,0.2,0.03,0.02,0.01,standing
