@@ -1,4 +1,3 @@
-# ActionSense-Human-Action-Recognition
 # ActionSense: A Data-Driven Approach to Human Action Recognition
 
 This project demonstrates how to use wearable sensor data (accelerometer and gyroscope) to recognize human actions using data science and machine learning techniques.
